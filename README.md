@@ -1,1 +1,11 @@
 # midterm_project
+
+1. The applied midterm is completed with your Project Group. Check in Canvas for your group assignment, and contact your group members as soon as possible (Monday). All group members will receive the same grade.
+
+2. Download the notebook (linked below) and complete all required steps in the notebook, with your team (Project Group). Answers will be in code cells and markdown. COLAB is recommended.
+
+3. Submit in Canvas: one group member will submit the completed notebook in Canvas, and the notebook saved as a PDF as well (in Colab, File . . .Print . . . PDF).
+
+4. Submit in Github class group: all members will individually submit the completed Python notebook in their Github repository for class.
+
+DUE: end of day Thursday March 5th (11:59 pm). 
